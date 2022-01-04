@@ -1,4 +1,5 @@
 (function (){
+    ('use strict');
     const body = document.querySelector('body');
 
     //STRINGS 1

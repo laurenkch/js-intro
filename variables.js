@@ -1,6 +1,6 @@
 
 (function () {
-    ("use strict");
+    ('use strict');
 
     const body = document.querySelector('body');
 // VARIABLES 1
